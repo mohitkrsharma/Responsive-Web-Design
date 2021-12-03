@@ -22,9 +22,7 @@ nav {
   font-size: 18px;
   text-align: center;
 }
-article {
-  /* margin-bottom: 60px; */
-}
+
 .post-header {
   margin-bottom: 40px;
 }
@@ -214,10 +212,7 @@ footer {
 .main-header {
   grid-column: 1/-1;
 }
-article {
-}
-aside {
-}
+
 footer {
   background-color: #1098ad;
   grid-column: 1/-1;
